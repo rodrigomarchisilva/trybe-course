@@ -7,6 +7,7 @@
 
 * I made it as a reference for myself and others who wish to use it;
 * It's meant to be used as a reference while coding with `VS Code`;
+* Summaries are in brazilian portuguese;
 * I recommend you to use the VS Code's extension `Markdown Preview Github Styling`;
 * While in `VS Code`, simply open the file you want and press `Ctrl+Shift+V`;
 * All summaries are in [Markdown](https://www.markdownguide.org/getting-started/);
