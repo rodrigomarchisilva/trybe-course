@@ -1,4 +1,5 @@
-<h1 align=center>trybe-course</h1>
+<!-- markdownlint-disable MD033 -->
+<h1 align=center allowed_elements>trybe-course</h1>
 
 <h2 align=center>Summaries and exercises from Trybe's web development course</h2>
 
